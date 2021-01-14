@@ -66,11 +66,12 @@ p{
     
 }
 
-.col-md-4 img{
+.about-us img{
     width: 100%;
     font-size: 20px;
     width: 71px;
     height: 76px;
+    
 
 
 }
@@ -97,6 +98,7 @@ p{
 }
 .foot p{
     margin: 0px;
+   
 }
 .last{
     text-align: center;
@@ -106,5 +108,15 @@ p{
 }
 #last-section{
     color: #363958;
+}
+.card-img{
+    background-image: linear-gradient(45deg,#F1F1F1,#F1F1F1);
+    border-radius: 4em;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+    height: 400px;
+    width: 385px;
+    
 }
 
