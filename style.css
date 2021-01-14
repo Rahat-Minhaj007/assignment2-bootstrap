@@ -1,0 +1,110 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    color:#3C3C3C;
+    font-weight: 650;
+}
+.background{
+    background-color:  #fff1e7;
+}
+h1{
+    color:  #363958;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 70px;
+    
+}
+h3{
+    color:  #363958;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 48px;
+}
+h5{
+    color:  #363958;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+}
+h4{
+ 
+        color: #f65c1a;
+        font-family: Bebas Neue;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px;
+        font-size: 40px;
+   
+}
+
+p{  
+    color: #3E3E3E;;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+.buttn img{
+    width: 20px;
+}
+.nike-card-footer{
+    background-color: white;
+    border: 0;
+   
+}
+.nike-card{
+    border: 0;
+    
+}
+
+.col-md-4 img{
+    width: 100%;
+    font-size: 20px;
+    width: 71px;
+    height: 76px;
+
+
+}
+.Contac{
+    border-radius: 50px;
+}
+.shadow{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    border: 0;
+}
+.bordr{
+    border: 0;
+}
+.buttn{
+    border-radius: 15px;
+    background-color: #3D4FF3;
+}
+
+.foot a{
+    color: black;
+    text-decoration: none;
+}
+.foot p{
+    margin: 0px;
+}
+.last{
+    text-align: center;
+}
+.fot{
+    text-align: center;
+}
+#last-section{
+    color: #363958;
+}
+
